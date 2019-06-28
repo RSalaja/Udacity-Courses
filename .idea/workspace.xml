@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccec885b-52b5-4b23-842c-a69ac5395d43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Project 1 - Intoduction" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project 1 - variables" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Raphael.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 1/Project 1 - Strings" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 - Intoduction" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1/Project 1 - Introduction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project 1 - variables" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1/Project 1 - Variables" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,19 +17,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Project 1 - variables">
+        <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Strings">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+            <state relative-caret-position="272">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Project 1 - Intoduction">
+        <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Extracting Links">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="114">
+              <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -45,11 +47,13 @@
         <option value="$PROJECT_DIR$/Project 1" />
         <option value="$PROJECT_DIR$/Project 1 - variables" />
         <option value="$PROJECT_DIR$/Project 1 - Intoduction" />
+        <option value="$PROJECT_DIR$/Project 1 - Strings" />
+        <option value="$PROJECT_DIR$/Lesson 1/Project 1 - Extracting Links" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="793" />
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
@@ -59,12 +63,18 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson 1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -75,7 +85,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Raphael\Intro-To-Computer-Science\Lesson 1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,7 +104,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Project 1 - variables (1)">
+  <component name="RunManager" selected="Python.Project 1 - Extracting Links">
+    <configuration name="Project 1 - Extracting Links" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson 1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 1/Project 1 - Extracting Links" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Project 1 - variables (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-To-Computer-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Project 1 - variables" />
+      <option name="SCRIPT_NAME" value="C:\Users\Raphael\Intro-To-Computer-Science\Lesson 1\Project 1 - Variables" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +159,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Raphael\Intro-To-Computer-Science\Project 1 - variables" />
+      <option name="SCRIPT_NAME" value="C:\Users\Raphael\Intro-To-Computer-Science\Lesson 1\Project 1 - Variables" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,10 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Project 1 - variables (1)" />
+        <item itemvalue="Python.Project 1 - Extracting Links" />
         <item itemvalue="Python.Project 1 - variables" />
-        <item itemvalue="Python.Setting-Up" />
         <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.Project 1 - variables (1)" />
+        <item itemvalue="Python.Setting-Up" />
       </list>
     </recent_temporary>
   </component>
@@ -206,21 +243,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="793" y="0" width="814" height="867" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49921507" visible="true" weight="0.156875" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49921507" weight="0.62907267" />
       <window_info id="Structure" order="1" sideWeight="0.50078493" side_tool="true" weight="0.3234536" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3281046" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49874687" weight="0.3542781" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.33378747" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.13095239" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32970026" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5012531" side_tool="true" weight="0.3272472" />
       <window_info anchor="bottom" x="1" y="31" width="798" height="828" id="Python Console" order="10" weight="0.31878307" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -228,9 +266,7 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     <entry file="file://$PROJECT_DIR$/Setting-Up">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -238,19 +274,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project 1 - variables">
+    <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Introduction">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Variables">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
           <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Project 1 - Intoduction">
+    <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Strings">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="272">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Extracting Links">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
