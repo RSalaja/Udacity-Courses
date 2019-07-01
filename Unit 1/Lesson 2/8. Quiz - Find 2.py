@@ -16,7 +16,7 @@
 # IMPORTANT BEFORE SUBMITTING:
 # You should only have one print command in your function
 
-print (text.find("zip",text.find("'zip")+1)
+print(text.find("zip",(text.find("'zip")+1))
 text = "all zip files are zipped"
 
 
