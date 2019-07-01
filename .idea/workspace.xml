@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27892db9-3073-42d7-b441-9b3de2c2b3f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/1. Quiz -  Search Engines And The Web" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/2. Quiz - Python Programming 1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/4. Quiz - Speed of Light .py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/6. Quiz -  Bodacious Udacity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/7. Quiz - Find 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/8. Quiz - Find 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 2/9. Quiz - Rounding Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 3/1. Quiz - Train Focus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 3/2. Quiz -Text Replacement.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson 1/Project 1 - Extracting Links" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1/Project 1 - Extracting Links" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 1/Project 1 - Introduction" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1/Project 1 - Introduction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 1/Project 1 - Strings" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1/Project 1 - Strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 1/Project 1 - Variables" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson 1/Project 1 - Variables" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson 2/Homework 1 -  Search Engines And The Web" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,33 +30,103 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Extracting Links">
+        <entry file="file://$PROJECT_DIR$/Lesson 2/1. Quiz -  Search Engines And The Web">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lesson 2/Homework 1 -  Search Engines And The Web">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Final Quiz">
+        <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Extracting Links">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-9">
-              <caret line="13" column="1" selection-start-line="13" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Strings">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Introduction">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Variables">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson 2/9. Quiz - Rounding Numbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson 2/4. Quiz - Speed of Light .py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson 2/6. Quiz -  Bodacious Udacity.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson 2/7. Quiz - Find 1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lesson 2/8. Quiz - Find 2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -53,17 +136,31 @@
       <list>
         <option value="$PROJECT_DIR$/Lesson 1/Project 1 - Final Quiz" />
         <option value="$PROJECT_DIR$/Lesson 1/Project 1 - Extracting Links" />
+        <option value="$PROJECT_DIR$/Lesson 2/Quiz - Rounding Numbers.py" />
+        <option value="$PROJECT_DIR$/Lesson 2/Quiz - Python Programming 1" />
+        <option value="$PROJECT_DIR$/Lesson 2/Quiz - Python Programming 2.py" />
+        <option value="$PROJECT_DIR$/Lesson 2/Quiz -  Bodacious Udacity.py" />
+        <option value="$PROJECT_DIR$/Lesson 2/Quiz - Find 1.py" />
         <option value="$PROJECT_DIR$/Lesson 2/Homework 1 -  Search Engines And The Web" />
+        <option value="$PROJECT_DIR$/Lesson 2/Quiz - Find 2.py" />
+        <option value="$PROJECT_DIR$/Lesson 3/2. Quiz -Text Replacement.py" />
+        <option value="$PROJECT_DIR$/Lesson 3/1. Quiz - Train Focus.py" />
+        <option value="$PROJECT_DIR$/Lesson 2/9. Quiz - Rounding Numbers.py" />
+        <option value="$PROJECT_DIR$/Lesson 1/Project 1 - Strings" />
+        <option value="$PROJECT_DIR$/Lesson 1/Project 1 - Introduction" />
+        <option value="$PROJECT_DIR$/Lesson 1/Project 1 - Variables" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="793" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <showExcludedFiles Scope="false" ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -75,6 +172,21 @@
               <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson 3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -85,7 +197,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="settings.editor.splitter.proportion" value="0.29268292" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,7 +212,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Homework 1 -  Search Engines And The Web">
+  <component name="RunManager" selected="Python.2. Quiz -Text Replacement">
+    <configuration name="1. Quiz - Train Focus" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 3/1. Quiz - Train Focus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2. Quiz -Text Replacement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 3/2. Quiz -Text Replacement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Homework 1 -  Search Engines And The Web" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-To-Computer-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +267,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson 2/Homework 1 -  Search Engines And The Web" />
+      <option name="SCRIPT_NAME" value="C:\Users\Raphael\Intro-To-Computer-Science\Lesson 2\1. Quiz -  Search Engines And The Web" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,8 +297,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Quiz - Rounding Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Raphael\Intro-To-Computer-Science\Lesson 2\9. Quiz - Rounding Numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2. Quiz -Text Replacement" />
+        <item itemvalue="Python.1. Quiz - Train Focus" />
+        <item itemvalue="Python.Quiz - Rounding Numbers" />
         <item itemvalue="Python.Homework 1 -  Search Engines And The Web" />
         <item itemvalue="Python.Project 1 - Final Quiz" />
       </list>
@@ -165,12 +344,12 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.124375" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32496697" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32036316" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -187,35 +366,118 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Strings">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Variables">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Introduction">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Extracting Links">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Final Quiz">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9">
+        <state relative-caret-position="312">
           <caret line="13" column="1" selection-start-line="13" selection-end-line="20" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Lesson 2/Homework 1 -  Search Engines And The Web">
+    <entry file="file://$PROJECT_DIR$/Lesson 3/2. Quiz -Text Replacement.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="66" column="8" lean-forward="true" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
+        <state relative-caret-position="935">
+          <caret line="55" column="29" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 3/1. Quiz - Train Focus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 2/2. Quiz - Python Programming 1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 2/4. Quiz - Speed of Light .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 2/6. Quiz -  Bodacious Udacity.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 2/7. Quiz - Find 1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 2/8. Quiz - Find 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 2/9. Quiz - Rounding Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 2/1. Quiz -  Search Engines And The Web">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Extracting Links">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Strings">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Introduction">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lesson 1/Project 1 - Variables">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="37" column="7" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
