@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27892db9-3073-42d7-b441-9b3de2c2b3f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Unit 2/Lesson 5/Procedures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 2/Lesson 5/12. Quiz - Square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 2/Lesson 5/13. Quiz -Sum of Three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 2/Lesson 5/14.Quiz - Abbaize.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,9 +18,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/17. Quiz - If Statements">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/Procedures.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/15. Quiz - Find Second.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -55,10 +70,17 @@
         <option value="$PROJECT_DIR$/Lesson 3/6. Quiz - Palindrome.py" />
         <option value="$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Extracting Links" />
         <option value="$PROJECT_DIR$/Unit 2/Lesson 5/Procedures.py" />
+        <option value="$PROJECT_DIR$/Unit 1/Lesson 2/8. Quiz - Find 2.py" />
+        <option value="$PROJECT_DIR$/Unit 2/Lesson 5/12. Quiz - Square.py" />
+        <option value="$PROJECT_DIR$/Unit 2/Lesson 5/13. Quiz -Sum of Three.py" />
+        <option value="$PROJECT_DIR$/Unit 2/Lesson 5/14.Quiz - Abbaize.py" />
+        <option value="$PROJECT_DIR$/Unit 2/Lesson 5/ld.py" />
+        <option value="$PROJECT_DIR$/Unit 2/Lesson 5/15. Quiz - Find Second.py" />
+        <option value="$PROJECT_DIR$/Unit 2/Lesson 5/k.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="814" />
     <option name="height" value="867" />
@@ -76,6 +98,17 @@
             <path>
               <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Lesson 2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
@@ -98,6 +131,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
     <property name="settings.editor.splitter.proportion" value="0.29268292" />
   </component>
@@ -119,6 +153,122 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.k">
+    <configuration name="13. Quiz -Sum of Three" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 2/Lesson 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 2/Lesson 5/13. Quiz -Sum of Three.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14.Quiz - Abbaize" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 2/Lesson 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 2/Lesson 5/14.Quiz - Abbaize.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15. Quiz - Find Second" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 2/Lesson 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 2/Lesson 5/15. Quiz - Find Second.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="k" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 2/Lesson 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Raphael\Intro-To-Computer-Science\Unit 2\Lesson 5\17. Quiz - If Statements" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ld" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 2/Lesson 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Raphael\Intro-To-Computer-Science\Unit 2\Lesson 5\15. Quiz - Find Second.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.k" />
+        <item itemvalue="Python.15. Quiz - Find Second" />
+        <item itemvalue="Python.ld" />
+        <item itemvalue="Python.14.Quiz - Abbaize" />
+        <item itemvalue="Python.13. Quiz -Sum of Three" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -133,15 +283,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="814" height="867" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27694234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32020998" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3164721" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -207,13 +357,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 2/8. Quiz - Find 2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 2/4. Quiz - Speed of Light .py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -270,8 +413,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 2/8. Quiz - Find 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/Procedures.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/12. Quiz - Square.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/13. Quiz -Sum of Three.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/14.Quiz - Abbaize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/17. Quiz - If Statements">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/15. Quiz - Find Second.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
