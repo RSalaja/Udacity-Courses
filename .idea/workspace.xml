@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="3" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="27892db9-3073-42d7-b441-9b3de2c2b3f7" name="Default Changelist" comment="" />
+    <list default="true" id="27892db9-3073-42d7-b441-9b3de2c2b3f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Unit 2/Lesson 5/While Loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/14.Quiz - Abbaize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Lesson 5/14. Quiz - Abbaize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/21. Quiz - Biggest.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,44 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/17. Quiz - If Statements">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/18. Quiz - Is Friend.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="3" selection-start-line="9" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/19. Quiz - More Friends.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/21. Quiz - Biggest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,11 +58,13 @@
         <option value="$PROJECT_DIR$/Unit 2/Lesson 5/18. Quiz - Is Friend.py" />
         <option value="$PROJECT_DIR$/Unit 2/Lesson 5/19. Quiz - More Friends.py" />
         <option value="$PROJECT_DIR$/Unit 2/Lesson 5/21. Quiz - Biggest.py" />
+        <option value="$PROJECT_DIR$/Unit 2/Lesson 5/While Loops.py" />
+        <option value="$PROJECT_DIR$/Unit 2/Lesson 5/24. Quiz - Print Numbers.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="793" />
     <option name="width" value="814" />
     <option name="height" value="867" />
   </component>
@@ -107,46 +74,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson 5" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
     <property name="settings.editor.splitter.proportion" value="0.29268292" />
@@ -169,8 +105,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.19. Quiz - More Friends">
-    <configuration name="15. Quiz - Find Second" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.24. Quiz - Print Numbers">
+    <configuration name="21. Quiz - Biggest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-To-Computer-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 2/Lesson 5/15. Quiz - Find Second.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 2/Lesson 5/21. Quiz - Biggest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18. Quiz - Is Friend" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="24. Quiz - Print Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-To-Computer-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 2/Lesson 5/18. Quiz - Is Friend.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 2/Lesson 5/24. Quiz - Print Numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19. Quiz - More Friends" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="While Loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-To-Computer-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -224,49 +160,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 2/Lesson 5/19. Quiz - More Friends.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="k" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Intro-To-Computer-Science" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 2/Lesson 5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Raphael\Intro-To-Computer-Science\Unit 2\Lesson 5\17. Quiz - If Statements" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ld" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Intro-To-Computer-Science" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 2/Lesson 5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Raphael\Intro-To-Computer-Science\Unit 2\Lesson 5\15. Quiz - Find Second.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 2/Lesson 5/While Loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,11 +171,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.19. Quiz - More Friends" />
-        <item itemvalue="Python.18. Quiz - Is Friend" />
-        <item itemvalue="Python.k" />
-        <item itemvalue="Python.15. Quiz - Find Second" />
-        <item itemvalue="Python.ld" />
+        <item itemvalue="Python.24. Quiz - Print Numbers" />
+        <item itemvalue="Python.While Loops" />
+        <item itemvalue="Python.21. Quiz - Biggest" />
       </list>
     </recent_temporary>
   </component>
@@ -299,9 +191,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="814" height="867" extended-state="0" />
+    <frame x="793" y="0" width="814" height="867" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2756892" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3433584" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -314,9 +206,9 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32939634" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32893" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32555124" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32970026" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -445,13 +337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/14.Quiz - Abbaize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/12. Quiz - Square.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -466,13 +351,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/17. Quiz - If Statements">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/18. Quiz - Is Friend.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -480,17 +358,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/17. Quiz - If Statements">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/19. Quiz - More Friends.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/21. Quiz - Biggest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/While Loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/24. Quiz - Print Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/14. Quiz - Abbaize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
