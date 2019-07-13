@@ -27,6 +27,6 @@ is_palindrome = (word[::-1] - word)
 print(is_palindrome)
 
 # TESTING
-print (is_palindrome)
+print(is_palindrome)
 # >>> 0  # outcome if word == "madam"
 # >>> -1 # outcome if word == "madman"

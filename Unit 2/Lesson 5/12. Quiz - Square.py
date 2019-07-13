@@ -9,8 +9,9 @@
 #    return c
 
 def square(a):
-    b = a*a
+    b = a * a
     return b
+
 
 # To test your procedure, uncomment the print
 # statement below, by removing the hash mark (#)
@@ -21,5 +22,5 @@ def square(a):
 # this (#>>>) are included to show the results
 # you should see when run your procedure.
 
-print (square(5))
-#>>> 25
+print(square(5))
+# >>> 25

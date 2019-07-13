@@ -7,4 +7,4 @@ t = 'bodacious'
 
 start = s[0:3]
 end = t[4:]
-print (start+end)
+print(start + end)
