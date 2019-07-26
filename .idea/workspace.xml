@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27892db9-3073-42d7-b441-9b3de2c2b3f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1/Lesson 1/1. Introducing the Web Crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1/Lesson 1/2. Programming.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1/Lesson 1/3. Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1/Lesson 1/4. Strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1/Lesson 1/5. Extracting Links.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 1/Lesson 1/Useful Links.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 2/Lesson 8/5. Quiz - Leap Year Baby.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Lesson 11/Aliasing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Lesson 11/Mutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Lesson 11/Nested Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Lesson 11/Structured Data (Introduction).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Lesson 11/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Lesson 11/Work.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 3/Lesson 11/How Computers Store Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 3/Lesson 11/List Operations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Extracting Links" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Final Quiz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Introduction" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Strings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Variables" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 1/Lesson 1/Useful Links.py" beforeDir="false" afterPath="$PROJECT_DIR$/Useful Links.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 3/Lesson 11/Aliasing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 3/Lesson 11/Aliasing.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,27 +17,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 2/1. Quiz -  Search Engines And The Web">
+        <entry file="file://$PROJECT_DIR$/Useful Links.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="272">
+              <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 2/2. Quiz - Python Programming 1">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 2/4. Quiz - Speed of Light .py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 2/6. Quiz -  Bodacious Udacity.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -70,9 +40,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lesson 1/Project 1 - Introduction" />
-        <option value="$PROJECT_DIR$/Lesson 1/Project 1 - Variables" />
-        <option value="$PROJECT_DIR$/Lesson 3/5. Quiz - Pythomic Arithmetic.py" />
         <option value="$PROJECT_DIR$/Lesson 3/6. Quiz - Palindrome.py" />
         <option value="$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Extracting Links" />
         <option value="$PROJECT_DIR$/Unit 2/Lesson 5/Procedures.py" />
@@ -110,7 +77,6 @@
         <option value="$PROJECT_DIR$/Unit 2/Lesson 8/5. Quiz - Leap Year Baby.py" />
         <option value="$PROJECT_DIR$/Unit 3/Lesson 11/Test.py" />
         <option value="$PROJECT_DIR$/Unit 3/Lesson 11/Mutation.py" />
-        <option value="$PROJECT_DIR$/Unit 3/Lesson 11/Aliasing.py" />
         <option value="$PROJECT_DIR$/Unit 3/Lesson 11/Structured Data (Introduction).py" />
         <option value="$PROJECT_DIR$/Unit 3/Lesson 11/Work.py" />
         <option value="$PROJECT_DIR$/Unit 3/Lesson 11/Nested Lists.py" />
@@ -121,10 +87,15 @@
         <option value="$PROJECT_DIR$/Unit 1/Lesson 1/4. Strings.py" />
         <option value="$PROJECT_DIR$/Unit 1/Lesson 1/5. Extracting Links.py" />
         <option value="$PROJECT_DIR$/Unit 1/Lesson 1/Useful Links.py" />
+        <option value="$PROJECT_DIR$/Unit 3/Lesson 11/Aliasing.py" />
+        <option value="$PROJECT_DIR$/Unit 3/Lesson 11/List Operations.py" />
+        <option value="$PROJECT_DIR$/Unit 3/Lesson 11/How Computers Store Data.py" />
+        <option value="$PROJECT_DIR$/Useful Links.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1066" />
     <option name="width" value="533" />
     <option name="height" value="860" />
   </component>
@@ -140,23 +111,6 @@
             <path>
               <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
               <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Intro-To-Computer-Science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Intro-To-Computer-Science" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson 2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -175,6 +129,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Raphael\Intro-To-Computer-Science" />
       <recent name="C:\Users\Raphael\Intro-To-Computer-Science\Unit 1\Lesson 1" />
       <recent name="C:\Users\Raphael\Intro-To-Computer-Science\Unit 1" />
       <recent name="C:\Users\Raphael\Intro-To-Computer-Science\" />
@@ -192,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Useful Links">
+  <component name="RunManager" selected="Python.Useful Links (1)">
     <configuration name="4. Strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-To-Computer-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,28 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5. Quiz - Leap Year Baby" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Intro-To-Computer-Science" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 2/Lesson 8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 2/Lesson 8/5. Quiz - Leap Year Baby.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Mutation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Aliasing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-To-Computer-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -247,7 +181,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 3/Lesson 11/Mutation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 3/Lesson 11/Aliasing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="List Operations" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 3/Lesson 11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 3/Lesson 11/List Operations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Useful Links (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Useful Links.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,28 +244,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 1/Lesson 1/Useful Links.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Work" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Intro-To-Computer-Science" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 3/Lesson 11" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 3/Lesson 11/Work.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Raphael\Intro-To-Computer-Science\Useful Links.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Useful Links (1)" />
+        <item itemvalue="Python.List Operations" />
+        <item itemvalue="Python.Aliasing" />
         <item itemvalue="Python.Useful Links" />
         <item itemvalue="Python.4. Strings" />
-        <item itemvalue="Python.Mutation" />
-        <item itemvalue="Python.Work" />
-        <item itemvalue="Python.5. Quiz - Leap Year Baby" />
       </list>
     </recent_temporary>
   </component>
@@ -331,8 +286,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="1066" y="0" width="533" height="860" extended-state="0" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.79141104" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16309012" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39266303" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32608697" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32744566" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32853404" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3248322" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32880434" />
+      <window_info anchor="bottom" x="14" y="307" width="1572" height="245" id="Python Console" maximized="true" order="12" type="WINDOWED" weight="0.32885906" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16857506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -352,59 +328,9 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 6/1. Quiz - Udacify.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../courses/Udacity/02_IntroToComputerScience/Code/Lesson5/01_Lesson5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5702" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/Procedures.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/26. Quiz - Break.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/30. Quiz - Print All Links">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/29. Quiz - No Links.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/24. Quiz - Print Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/While Loops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit 2/Lesson 5/25. Quiz - Factorial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -540,13 +466,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 3/Lesson 11/Aliasing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit 3/Lesson 11/Mutation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -585,13 +504,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Variables">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="30" selection-start-line="30" selection-end-line="38" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Variables" />
     <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/3. Variables.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -599,16 +512,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/unit1-notes.pdf.url">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Strings">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="21" selection-start-line="21" selection-end-line="25" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/unit1-notes.pdf.url" />
+    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Strings" />
     <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/4. Strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -616,20 +521,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Extracting Links">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Final Quiz">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Extracting Links" />
+    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Final Quiz" />
     <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/5. Extracting Links.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
@@ -637,20 +530,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/PDF version for printing.url">
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/PDF version for printing.url" />
+    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Introduction" />
+    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 2/1. Quiz -  Search Engines And The Web">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/Project 1 - Introduction">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 1/Useful Links.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -663,10 +548,69 @@
     <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 2/6. Quiz -  Bodacious Udacity.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 1/Lesson 2/1. Quiz -  Search Engines And The Web">
+    <entry file="file://$PROJECT_DIR$/Unit 3/Lesson 11/Aliasing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="354">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 3/Lesson 11/List Operations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 3/Lesson 11/How Computers Store Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Python Reference.url">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Unit 2.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Unit 3.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Unit 4.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Unit 5.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AppData/Local/Temp/Unit 6.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Useful Links.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
