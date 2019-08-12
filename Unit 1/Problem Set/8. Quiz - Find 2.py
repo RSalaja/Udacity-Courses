@@ -8,13 +8,14 @@
 # to pass every possible case where 'zip'
 # can occur in a string
 # Here are two example test cases:
-# text = 'all zip files are zipped'
+text = 'all zip files are zipped'
 # >>> 18
-# text = 'all zip files are compressed'
+text = 'all zip files are compressed'
 # >>> -1
 # ENTER CODE BELOW HERE
 # IMPORTANT BEFORE SUBMITTING:
 # You should only have one print command in your function
 
-print(text.find("zip", (text.find("'zip") + 1))
-text = "all zip files are zipped"
+first_zip=text.find('zip')
+print(text.find('zip',text.find('zip')+1))
+

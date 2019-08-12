@@ -7,14 +7,11 @@ Unit_5 = 'http://www.cs.virginia.edu/~evans/cs101/unit5-notes.pdf'
 Unit_6 = 'http://www.cs.virginia.edu/~evans/cs101/unit6-notes.pdf'
 
 
-
 def open_resource(a):
-
     if print(a) == print(Unit_1 or Unit_2 or Unit_3 or Unit_4 or Unit_5 or Unit_6):
         import webbrowser
         webbrowser.open(a)
     else:
         import webbrowser
         webbrowser.open(Python_Reference)
-
 open_resource(5)
