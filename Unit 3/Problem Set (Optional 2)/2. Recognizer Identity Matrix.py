@@ -11,7 +11,7 @@
 
 def is_identity_matrix(matrix):
     # Write your code here
-    
+
 
 # Test Cases:
 

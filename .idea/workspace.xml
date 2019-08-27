@@ -2,70 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27892db9-3073-42d7-b441-9b3de2c2b3f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/1. Antisymmetric Square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/3. Numbers In Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/4. Frequency Analysis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Quizzes/1. Structured Data (Introduction).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Quizzes/2. Nested Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Quizzes/3. Mutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Quizzes/4. Aliasing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Quizzes/5. List Operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Quizzes/6. Loops on Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 3/Quizzes/8. Index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Useful Links" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Workspace Set-up/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/appdirs.py" beforeDir="false" afterPath="$PROJECT_DIR$/.Workspace Set-up/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/appdirs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.Workspace Set-up/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/ipaddress.py" beforeDir="false" afterPath="$PROJECT_DIR$/.Workspace Set-up/venv/Lib/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/ipaddress.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 1/Notes/1. Introducing the Web Crawler.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 1/Notes/2. Programming.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 1/Notes/3. Variables.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 1/Notes/4. Strings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 1/Notes/5. Extracting Links.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/12. Quiz - Square.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/13. Quiz - Sum of Three.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/14. Quiz - Abbaize.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/15. Quiz - Find Second.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/17. Quiz - If Statements" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/18. Quiz - Is Friend.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/19. Quiz - More Friends.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/21. Quiz - Biggest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/24. Quiz - Print Numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/25. Quiz - Factorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/26. Quiz - Break.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/29. Quiz - No Links.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/30. Quiz - Print All Links" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/2. Recognizer Identity Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/Procedures.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 5/While Loops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 6/1. Quiz - Udacify.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set/1. Quiz - Udacify.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 6/3. Quiz - Median.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set/3. Quiz - Median.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 6/4. Quiz - Blastoff.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set/4. Quiz - Blastoff.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 6/5. Quiz - Finish.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set/5. Quiz - Finish.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 6/6. Quiz - Find Last.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set/6. Quiz - Find Last.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 7/1. Quiz - Weekend.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set (Optional)/1. Quiz - Weekend.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 7/2. Quiz - Stamps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set (Optional)/2. Quiz - Stamps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 7/3. Quiz - Range Of A Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set (Optional)/3. Quiz - Range Of A Set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 8/1. Quiz - Superhero Nuisance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set (Optional 2)/1. Quiz - Superhero Nuisance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 8/2. Quiz - Days Old.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set (Optional 2)/2. Quiz - Days Old.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 8/3. Quiz - 10 Row Abacus.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set (Optional 2)/3. Quiz - 10 Row Abacus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 8/4. Quiz - Jungle Animal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set (Optional 2)/4. Quiz - Jungle Animal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 2/Lesson 8/5. Quiz - Leap Year Baby.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 2/Problem Set (Optional 2)/5. Quiz - Leap Year Baby.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 3/Notes/1. Structured Data (Introduction).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 3/Notes/10. Collecting Links.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 3/Notes/11. Links.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 3/Quizzes/10. Links.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 3/Notes/2. Nested Lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 3/Notes/3. Mutation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 3/Notes/4. Aliasing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 3/Notes/5. List Operations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 3/Notes/6. Loops on Lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 3/Notes/7. For Loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 3/Quizzes/7. For Loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 3/Notes/8. Index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 3/Notes/9. Pop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 3/Quizzes/9. Pop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 4/1. Introduction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 4/2. Add to Index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 4/3. Lookup Procedure.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit 4/5.  Building the Web Index.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Useful Links.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/2. Recognizer Identity Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/2. Recognizer Identity Matrix.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,11 +43,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\salaj\Intro-To-Computer-Science\Unit 4" />
       <recent name="C:\Users\salaj\Intro-To-Computer-Science\Unit 2" />
       <recent name="C:\Users\salaj\Intro-To-Computer-Science\Unit 2\Notes\Quiz" />
       <recent name="C:\Users\Raphael\Intro-To-Computer-Science\Unit 3\Problem Set" />
       <recent name="C:\Users\Raphael\Intro-To-Computer-Science\Unit 3\Notes" />
-      <recent name="C:\Users\Raphael\Intro-To-Computer-Science\Unit 1\Problem Set (Optional)" />
     </key>
   </component>
   <component name="RunDashboard">
