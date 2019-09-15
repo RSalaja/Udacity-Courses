@@ -1,0 +1,24 @@
+# If Statement
+# An if statement is a conditional statement that runs or skips
+# code based on whether a condition is true or false. Here's a simple example.
+#
+if phone_balance < 5:
+    phone_balance += 10
+    bank_balance -= 10
+# Let's break this down.
+#
+# An if statement starts with the if keyword, followed by the condition to be checked,
+# in this case phone_balance < 5, and then a colon. The condition is specified in a boolean expression
+# that evaluates to either True or False.
+#
+# After this line is an indented block of code to be executed if that condition is true.
+# Here, the lines that increment phone_balance and decrement bank_balance only execute if
+# it is true that phone_balance is less than 5. If not, the code in this if block is simply skipped.
+
+# Use Comparison Operators in Conditional Statements
+# You have learned about Python's comparison operators (e.g. == and !=)
+# and how they are different from assignment operators (e.g. =).
+# In conditional statements, you want to use comparison operators.
+# For example, you'd want to use if x == 5 rather than if x = 5.
+# If your conditional statement is causing a syntax error or doing
+# something unexpected, check whether you have written == or =!
