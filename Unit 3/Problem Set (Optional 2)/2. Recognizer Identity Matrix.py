@@ -10,47 +10,50 @@
 # is equal to the number of columns)
 
 def is_identity_matrix(matrix):
-    # Write your code here
-
-
+    n = len(matrix)
+    for row in matrix:
+        if len(row) != n:
+            return False
+    for i in range(n):
+        for j in range(n):
+            if i == j and matrix[i][j] != 1:
+                return False
+            elif i != j and matrix[i][j] != 0:
+                return False
+    return True
 # Test Cases:
 
 matrix1 = [[1, 0, 0, 0],
            [0, 1, 0, 0],
            [0, 0, 1, 0],
            [0, 0, 0, 1]]
-print
-is_identity_matrix(matrix1)
+print(is_identity_matrix(matrix1))
 # >>>True
 
 matrix2 = [[1, 0, 0],
            [0, 1, 0],
            [0, 0, 0]]
 
-print
-is_identity_matrix(matrix2)
+print(is_identity_matrix(matrix2))
 # >>>False
 
 matrix3 = [[2, 0, 0],
            [0, 2, 0],
            [0, 0, 2]]
 
-print
-is_identity_matrix(matrix3)
+print(is_identity_matrix(matrix3))
 # >>>False
 
 matrix4 = [[1, 0, 0, 0],
            [0, 1, 1, 0],
            [0, 0, 0, 1]]
 
-print
-is_identity_matrix(matrix4)
+print(is_identity_matrix(matrix4))
 # >>>False
 
 matrix5 = [[1, 0, 0, 0, 0, 0, 0, 0, 0]]
 
-print
-is_identity_matrix(matrix5)
+print(is_identity_matrix(matrix5))
 # >>>False
 
 matrix6 = [[1, 0, 0, 0],
@@ -58,14 +61,12 @@ matrix6 = [[1, 0, 0, 0],
            [0, 0, 1, 0],
            [0, 0, 0, 1]]
 
-print
-is_identity_matrix(matrix6)
+print(is_identity_matrix(matrix6))
 # >>>False
 
 matrix7 = [[1, -1, 1],
            [0, 1, 0],
            [0, 0, 1]]
-print
-is_identity_matrix(matrix7)
+print(is_identity_matrix(matrix7))
 # >>>False
 

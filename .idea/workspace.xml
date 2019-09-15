@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27892db9-3073-42d7-b441-9b3de2c2b3f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/1. Making Things Fast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/10. Implementing Hash Tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/11. Empty Hash Tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/12. Finding Buckets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/13. Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/14. Modifying the Search Engine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/2. Predicting Run Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/3. Make Big Index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/4. Worst Case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/5. Making Lookup Faster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/6. Modulus Operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/7. Bad Hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/8. Better Hash Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Unit 5/Quizzes/9. Testing Hash Functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/2. Recognizer Identity Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/2. Recognizer Identity Matrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/3. Numbers In Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/3. Numbers In Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/4. Frequency Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/4. Frequency Analysis.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,50 +78,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1. Structured Data (Introduction)">
-    <configuration name="13. Print All Links" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Intro-To-Computer-Science" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\salaj\PycharmProjects\untitled\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 2/Notes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\salaj\Intro-To-Computer-Science\Unit 2\Notes\Quiz\13. Print All Links.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1. Structured Data (Introduction)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Intro-To-Computer-Science" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\salaj\PycharmProjects\untitled\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 3/Notes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 3/Notes/1. Structured Data (Introduction).py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3. Lookup Procedure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.6. Modulus Operator">
+    <configuration name="2. Add to Index" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-To-Computer-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +91,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 4/Quizzes/3. Lookup Procedure.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 4/Quizzes/2. Add to Index.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.  Building the Web Index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2. Predicting Run Time" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-To-Computer-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +108,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\salaj\PycharmProjects\untitled\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 4/Quizzes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 5/Quizzes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 4/Quizzes/4.  Building the Web Index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 5/Quizzes/2. Predicting Run Time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3. Make Big Index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\salaj\PycharmProjects\untitled\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 5/Quizzes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 5/Quizzes/3. Make Big Index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3. Numbers In Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Intro-To-Computer-Science" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\salaj\PycharmProjects\untitled\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 3/Problem Set (Optional 2)/3. Numbers In Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5. Finishing The Web Crawler" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6. Modulus Operator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Intro-To-Computer-Science" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="C:\Users\salaj\PycharmProjects\untitled\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 4/Quizzes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unit 5/Quizzes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 4/Quizzes/5. Finishing The Web Crawler.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unit 5/Quizzes/6. Modulus Operator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,19 +206,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.13. Print All Links" />
-      <item itemvalue="Python.4.  Building the Web Index" />
-      <item itemvalue="Python.5. Finishing The Web Crawler" />
-      <item itemvalue="Python.3. Lookup Procedure" />
-      <item itemvalue="Python.1. Structured Data (Introduction)" />
+      <item itemvalue="Python.3. Numbers In Lists" />
+      <item itemvalue="Python.2. Predicting Run Time" />
+      <item itemvalue="Python.2. Add to Index" />
+      <item itemvalue="Python.3. Make Big Index" />
+      <item itemvalue="Python.6. Modulus Operator" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1. Structured Data (Introduction)" />
-        <item itemvalue="Python.3. Lookup Procedure" />
-        <item itemvalue="Python.5. Finishing The Web Crawler" />
-        <item itemvalue="Python.4.  Building the Web Index" />
-        <item itemvalue="Python.13. Print All Links" />
+        <item itemvalue="Python.6. Modulus Operator" />
+        <item itemvalue="Python.3. Make Big Index" />
+        <item itemvalue="Python.3. Make Big Index" />
+        <item itemvalue="Python.2. Predicting Run Time" />
+        <item itemvalue="Python.2. Add to Index" />
       </list>
     </recent_temporary>
   </component>

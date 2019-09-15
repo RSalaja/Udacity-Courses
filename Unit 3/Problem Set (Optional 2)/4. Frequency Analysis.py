@@ -1,5 +1,5 @@
 # Crypto Analysis: Frequency Analysis
-#
+
 # To analyze encrypted messages, to find out information about the possible
 # algorithm or even language of the clear text message, one could perform
 # frequency analysis. This process could be described as simply counting
@@ -15,20 +15,19 @@
 # divided by the total number of characters in the message, n.
 
 def freq_analysis(message):
+
     ##
     # Your code here
     ##
     return freq_list
 
-
-
 #Tests
 
-print freq_analysis("abcd")
+print(freq_analysis("abcd"))
 #>>> [0.25, 0.25, 0.25, 0.25, 0.0, ..., 0.0]
 
-print freq_analysis("adca")
+print(freq_analysis("adca"))
 #>>> [0.5, 0.0, 0.25, 0.25, 0.0, ..., 0.0]
 
-print freq_analysis('bewarethebunnies')
+print(freq_analysis('bewarethebunnies'))
 #>>> [0.0625, 0.125, 0.0, 0.0, ..., 0.0]
